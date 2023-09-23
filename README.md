@@ -1,5 +1,5 @@
 
-## Cheatseet for rust pkg manager cargo
+## Cargo commands cheatsheet
 | Command                                    | Description                                     |
 |--------------------------------------------|-------------------------------------------------|
 | `cargo new <project_name>`                 | Create a new Rust project                       |
